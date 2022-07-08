@@ -12,4 +12,4 @@ An R package for implementing the robust inference methods for meta-analysis inv
 
 Please download "robustmeta_1.1-1.zip" and install it by R menu: "packages" -> "Install package(s) from local files...".
 
-Downloads: [please see the release page](https://github.com/nomahi/robustmeta/releases)
+Download: [please click this link](https://github.com/nomahi/robustmeta/blob/main/robustmeta_1.1-1.zip)
